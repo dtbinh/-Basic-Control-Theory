@@ -1,6 +1,6 @@
 %% parameters
 load('two_block_spring.mat')
-e_v = -0.2; %initial position of mass v (+ bottom, - Top)
+e_v = -1; %initial position of mass v (+ bottom, - Top)
 e_h = -1; %initial position of mass h (+ left, - right)
 d_e = 0.5; %spring equilibium
 assignin('base', 'e_v', e_v)
